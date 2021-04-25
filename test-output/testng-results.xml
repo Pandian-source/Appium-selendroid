@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="34422" started-at="2021-01-02T16:37:43 IST" finished-at="2021-01-02T16:38:17 IST">
+  <suite name="Default suite" duration-ms="35799" started-at="2021-04-17T22:04:11 IST" finished-at="2021-04-17T22:04:46 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="34422" started-at="2021-01-02T16:37:43 IST" finished-at="2021-01-02T16:38:17 IST">
+    <test name="Default test" duration-ms="35799" started-at="2021-04-17T22:04:11 IST" finished-at="2021-04-17T22:04:46 IST">
       <class name="AppiumProject.AppiumProject.Appiumtestng">
-        <test-method status="PASS" signature="Openapplication()[pri:0, instance:AppiumProject.AppiumProject.Appiumtestng@4d41cee]" name="Openapplication" is-config="true" duration-ms="12830" started-at="2021-01-02T16:37:30 IST" finished-at="2021-01-02T16:37:43 IST">
+        <test-method status="PASS" signature="Openapplication()[pri:0, instance:AppiumProject.AppiumProject.Appiumtestng@4d41cee]" name="Openapplication" is-config="true" duration-ms="12387" started-at="2021-04-17T22:03:58 IST" finished-at="2021-04-17T22:04:11 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Openapplication -->
-        <test-method status="PASS" signature="Hellopage()[pri:0, instance:AppiumProject.AppiumProject.Appiumtestng@4d41cee]" name="Hellopage" duration-ms="20179" started-at="2021-01-02T16:37:43 IST" finished-at="2021-01-02T16:38:03 IST">
+        <test-method status="PASS" signature="Hellopage()[pri:0, instance:AppiumProject.AppiumProject.Appiumtestng@4d41cee]" name="Hellopage" duration-ms="21429" started-at="2021-04-17T22:04:11 IST" finished-at="2021-04-17T22:04:32 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Hellopage -->
-        <test-method status="PASS" signature="email()[pri:0, instance:AppiumProject.AppiumProject.Appiumtestng@4d41cee]" name="email" duration-ms="2681" started-at="2021-01-02T16:38:03 IST" finished-at="2021-01-02T16:38:06 IST">
+        <test-method status="PASS" signature="email()[pri:0, instance:AppiumProject.AppiumProject.Appiumtestng@4d41cee]" name="email" duration-ms="3211" started-at="2021-04-17T22:04:32 IST" finished-at="2021-04-17T22:04:35 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- email -->
-        <test-method status="PASS" signature="name()[pri:0, instance:AppiumProject.AppiumProject.Appiumtestng@4d41cee]" name="name" duration-ms="2882" started-at="2021-01-02T16:38:06 IST" finished-at="2021-01-02T16:38:09 IST">
+        <test-method status="PASS" signature="name()[pri:0, instance:AppiumProject.AppiumProject.Appiumtestng@4d41cee]" name="name" duration-ms="2761" started-at="2021-04-17T22:04:35 IST" finished-at="2021-04-17T22:04:38 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- name -->
-        <test-method status="PASS" signature="programminglanguage()[pri:0, instance:AppiumProject.AppiumProject.Appiumtestng@4d41cee]" name="programminglanguage" duration-ms="8639" started-at="2021-01-02T16:38:09 IST" finished-at="2021-01-02T16:38:17 IST">
+        <test-method status="PASS" signature="programminglanguage()[pri:0, instance:AppiumProject.AppiumProject.Appiumtestng@4d41cee]" name="programminglanguage" duration-ms="8357" started-at="2021-04-17T22:04:38 IST" finished-at="2021-04-17T22:04:46 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- programminglanguage -->
-        <test-method status="PASS" signature="closeapplication()[pri:0, instance:AppiumProject.AppiumProject.Appiumtestng@4d41cee]" name="closeapplication" is-config="true" duration-ms="808" started-at="2021-01-02T16:38:17 IST" finished-at="2021-01-02T16:38:18 IST">
+        <test-method status="PASS" signature="closeapplication()[pri:0, instance:AppiumProject.AppiumProject.Appiumtestng@4d41cee]" name="closeapplication" is-config="true" duration-ms="816" started-at="2021-04-17T22:04:46 IST" finished-at="2021-04-17T22:04:47 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeapplication -->
